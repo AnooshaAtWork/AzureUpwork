@@ -1,0 +1,9 @@
+{
+	"name": "ADFAnoosha",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "996964b2-0522-4d74-99b3-24f7fd5d2b96",
+		"tenantId": "1ec2153f-292c-45f5-9649-a41561e75cab"
+	}
+}
