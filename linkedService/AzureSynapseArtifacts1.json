@@ -1,0 +1,12 @@
+{
+	"name": "AzureSynapseArtifacts1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSynapseArtifacts",
+		"typeProperties": {
+			"endpoint": "https://worskspace-synpase-anoosha.dev.azuresynapse.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/b9ec4998-b604-423a-bf98-3b1eb9481c98/resourceGroups/End-EndProject1/providers/Microsoft.Synapse/workspaces/worskspace-synpase-anoosha"
+		}
+	}
+}
